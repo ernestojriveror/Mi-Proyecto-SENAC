@@ -1,4 +1,4 @@
-let numero = 5
+let numero = -5
 
 if (numero > 0) {
   console.log("Positivo")
