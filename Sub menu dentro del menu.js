@@ -1,22 +1,11 @@
 let opcion = 1
 
+
   switch (opcion) {
     case 1:
-        let cafe = 1 
-            switch (cafe) {
-                 case 1:
-            console.log("Has elegido Café negro");
+            console.log("Has elegido Café");
             break;
-                case 2:
-            console.log("Has elegido Café marron");
-            break;
-                case 3:
-            console.log("Has elegido Café con leche");
-            break;
-                case 4: 
-            console.log("Has elegido Café mocachino");
-           break;
-            }
+            
     case 2:
             console.log("Has elegido Suco");
             break;
